@@ -1744,7 +1744,7 @@
 	text-decoration:none;
 }
 
-.tp-caption.Newspaper-Button,.Newspaper-Button
+.tp-caption.Newspaper-btn.btn-slide,.Newspaper-btn.btn-slide
 {
 	background-color:rgba(255,255,255,0);
 	border-color:rgba(255,255,255,0.25);
@@ -1763,7 +1763,7 @@
 	text-decoration:none;
 }
 
-.tp-caption.Newspaper-Button:hover,.Newspaper-Button:hover
+.tp-caption.Newspaper-btn.btn-slide:hover,.Newspaper-btn.btn-slide:hover
 {
 	background-color:rgba(255,255,255,1.00);
 	border-color:rgba(255,255,255,1.00);
@@ -1828,7 +1828,7 @@
 	text-decoration:none;
 }
 
-.tp-caption.Hero-Button,.Hero-Button
+.tp-caption.Hero-btn.btn-slide,.Hero-btn.btn-slide
 {
 	background-color:rgba(0,0,0,0);
 	border-color:rgba(255,255,255,0.50);
@@ -1847,7 +1847,7 @@
 	text-decoration:none;
 }
 
-.tp-caption.Hero-Button:hover,.Hero-Button:hover
+.tp-caption.Hero-btn.btn-slide:hover,.Hero-btn.btn-slide:hover
 {
 	background-color:rgba(255,255,255,1.00);
 	border-color:rgba(255,255,255,1.00);
@@ -1895,7 +1895,7 @@
 	text-decoration:none;
 }
 
-.tp-caption.NotGeneric-Button,.NotGeneric-Button
+.tp-caption.NotGeneric-btn.btn-slide,.NotGeneric-btn.btn-slide
 {
 	background-color:rgba(0,0,0,0);
 	border-color:rgba(255,255,255,0.50);
@@ -1914,7 +1914,7 @@
 	text-decoration:none;
 }
 
-.tp-caption.NotGeneric-Button:hover,.NotGeneric-Button:hover
+.tp-caption.NotGeneric-btn.btn-slide:hover,.NotGeneric-btn.btn-slide:hover
 {
 	background-color:transparent;
 	border-color:rgba(255,255,255,1.00);
@@ -1925,7 +1925,7 @@
 	text-decoration:none;
 }
 
-.tp-caption.NotGeneric-BigButton,.NotGeneric-BigButton
+.tp-caption.NotGeneric-Bigbtn.btn-slide,.NotGeneric-Bigbtn.btn-slide
 {
 	background-color:rgba(0,0,0,0);
 	border-color:rgba(255,255,255,0.15);
@@ -1944,7 +1944,7 @@
 	text-decoration:none;
 }
 
-.tp-caption.NotGeneric-BigButton:hover,.NotGeneric-BigButton:hover
+.tp-caption.NotGeneric-Bigbtn.btn-slide:hover,.NotGeneric-Bigbtn.btn-slide:hover
 {
 	background-color:rgba(0,0,0,0);
 	border-color:rgba(255,255,255,1.00);
@@ -1955,7 +1955,7 @@
 	text-decoration:none;
 }
 
-.tp-caption.WebProduct-Button,.WebProduct-Button
+.tp-caption.WebProduct-btn.btn-slide,.WebProduct-btn.btn-slide
 {
 	background-color:rgba(51,51,51,1.00);
 	border-color:rgba(0,0,0,1.00);
@@ -1974,7 +1974,7 @@
 	text-decoration:none;
 }
 
-.tp-caption.WebProduct-Button:hover,.WebProduct-Button:hover
+.tp-caption.WebProduct-btn.btn-slide:hover,.WebProduct-btn.btn-slide:hover
 {
 	background-color:rgba(255,255,255,1.00);
 	border-color:rgba(0,0,0,1.00);
@@ -1985,7 +1985,7 @@
 	text-decoration:none;
 }
 
-.tp-caption.Restaurant-Button,.Restaurant-Button
+.tp-caption.Restaurant-btn.btn-slide,.Restaurant-btn.btn-slide
 {
 	background-color:rgba(10,10,10,0);
 	border-color:rgba(255,255,255,0.50);
@@ -2004,7 +2004,7 @@
 	text-decoration:none;
 }
 
-.tp-caption.Restaurant-Button:hover,.Restaurant-Button:hover
+.tp-caption.Restaurant-btn.btn-slide:hover,.Restaurant-btn.btn-slide:hover
 {
 	background-color:rgba(0,0,0,0);
 	border-color:rgba(255,224,129,1.00);
@@ -2015,7 +2015,7 @@
 	text-decoration:none;
 }
 
-.tp-caption.Gym-Button,.Gym-Button
+.tp-caption.Gym-btn.btn-slide,.Gym-btn.btn-slide
 {
 	background-color:rgba(139,192,39,1.00);
 	border-color:rgba(0,0,0,0);
@@ -2034,7 +2034,7 @@
 	text-decoration:none;
 }
 
-.tp-caption.Gym-Button:hover,.Gym-Button:hover
+.tp-caption.Gym-btn.btn-slide:hover,.Gym-btn.btn-slide:hover
 {
 	background-color:rgba(114,168,0,1.00);
 	border-color:rgba(0,0,0,0);
@@ -2045,7 +2045,7 @@
 	text-decoration:none;
 }
 
-.tp-caption.Gym-Button-Light,.Gym-Button-Light
+.tp-caption.Gym-btn.btn-slide-Light,.Gym-btn.btn-slide-Light
 {
 	background-color:transparent;
 	border-color:rgba(255,255,255,0.25);
@@ -2063,7 +2063,7 @@
 	text-decoration:none;
 }
 
-.tp-caption.Gym-Button-Light:hover,.Gym-Button-Light:hover
+.tp-caption.Gym-btn.btn-slide-Light:hover,.Gym-btn.btn-slide-Light:hover
 {
 	background-color:rgba(114,168,0,0);
 	border-color:rgba(139,192,39,1.00);
@@ -2074,7 +2074,7 @@
 	text-decoration:none;
 }
 
-.tp-caption.Sports-Button-Light,.Sports-Button-Light
+.tp-caption.Sports-btn.btn-slide-Light,.Sports-btn.btn-slide-Light
 {
 	background-color:rgba(0,0,0,0);
 	border-color:rgba(255,255,255,0.50);
@@ -2093,7 +2093,7 @@
 	text-decoration:none;
 }
 
-.tp-caption.Sports-Button-Light:hover,.Sports-Button-Light:hover
+.tp-caption.Sports-btn.btn-slide-Light:hover,.Sports-btn.btn-slide-Light:hover
 {
 	background-color:rgba(0,0,0,0);
 	border-color:rgba(255,255,255,1.00);
@@ -2104,7 +2104,7 @@
 	text-decoration:none;
 }
 
-.tp-caption.Sports-Button-Red,.Sports-Button-Red
+.tp-caption.Sports-btn.btn-slide-Red,.Sports-btn.btn-slide-Red
 {
 	background-color:rgba(219,28,34,1.00);
 	border-color:rgba(219,28,34,0);
@@ -2123,7 +2123,7 @@
 	text-decoration:none;
 }
 
-.tp-caption.Sports-Button-Red:hover,.Sports-Button-Red:hover
+.tp-caption.Sports-btn.btn-slide-Red:hover,.Sports-btn.btn-slide-Red:hover
 {
 	background-color:rgba(0,0,0,1.00);
 	border-color:rgba(0,0,0,1.00);
@@ -2134,7 +2134,7 @@
 	text-decoration:none;
 }
 
-.tp-caption.Photography-Button,.Photography-Button
+.tp-caption.Photography-btn.btn-slide,.Photography-btn.btn-slide
 {
 	background-color:rgba(0,0,0,0);
 	border-color:rgba(255,255,255,0.25);
@@ -2153,7 +2153,7 @@
 	text-decoration:none;
 }
 
-.tp-caption.Photography-Button:hover,.Photography-Button:hover
+.tp-caption.Photography-btn.btn-slide:hover,.Photography-btn.btn-slide:hover
 {
 	background-color:rgba(0,0,0,0);
 	border-color:rgba(255,255,255,1.00);
@@ -2164,7 +2164,7 @@
 	text-decoration:none;
 }
 
-.tp-caption.Newspaper-Button-2,.Newspaper-Button-2
+.tp-caption.Newspaper-btn.btn-slide-2,.Newspaper-btn.btn-slide-2
 {
 	background-color:rgba(0,0,0,0);
 	border-color:rgba(255,255,255,0.50);
@@ -2182,7 +2182,7 @@
 	text-decoration:none;
 }
 
-.tp-caption.Newspaper-Button-2:hover,.Newspaper-Button-2:hover
+.tp-caption.Newspaper-btn.btn-slide-2:hover,.Newspaper-btn.btn-slide-2:hover
 {
 	background-color:rgba(0,0,0,0);
 	border-color:rgba(255,255,255,1.00);
@@ -2557,8 +2557,8 @@
     text-align: left;
     letter-spacing: 1px
 }
-.tp-caption.BigBold-Button,
-.BigBold-Button {
+.tp-caption.BigBold-btn.btn-slide,
+.BigBold-btn.btn-slide {
     color: rgba(255, 255, 255, 1.00);
     font-size: 13px;
     line-height: 13px;
@@ -2575,8 +2575,8 @@
     text-align: left;
     letter-spacing: 1px
 }
-.tp-caption.BigBold-Button:hover,
-.BigBold-Button:hover {
+.tp-caption.BigBold-btn.btn-slide:hover,
+.BigBold-btn.btn-slide:hover {
     color: rgba(255, 255, 255, 1.00);
     text-decoration: none;
     background-color: transparent;
@@ -2602,8 +2602,8 @@
     border-radius: 0 0 0 0px;
     text-align: left
 }
-.tp-caption.FoodCarousel-Button,
-.FoodCarousel-Button {
+.tp-caption.FoodCarousel-btn.btn-slide,
+.FoodCarousel-btn.btn-slide {
     color: rgba(41, 46, 49, 1.00);
     font-size: 13px;
     line-height: 13px;
@@ -2620,8 +2620,8 @@
     text-align: left;
     letter-spacing: 1px
 }
-.tp-caption.FoodCarousel-Button:hover,
-.FoodCarousel-Button:hover {
+.tp-caption.FoodCarousel-btn.btn-slide:hover,
+.FoodCarousel-btn.btn-slide:hover {
     color: rgba(255, 255, 255, 1.00);
     text-decoration: none;
     background-color: rgba(41, 46, 49, 1.00);
@@ -2630,8 +2630,8 @@
     border-width: 1px;
     border-radius: 0px 0px 0px 0px
 }
-.tp-caption.FoodCarousel-CloseButton,
-.FoodCarousel-CloseButton {
+.tp-caption.FoodCarousel-Closebtn.btn-slide,
+.FoodCarousel-Closebtn.btn-slide {
     color: rgba(41, 46, 49, 1.00);
     font-size: 20px;
     line-height: 20px;
@@ -2648,8 +2648,8 @@
     text-align: left;
     letter-spacing: 1px
 }
-.tp-caption.FoodCarousel-CloseButton:hover,
-.FoodCarousel-CloseButton:hover {
+.tp-caption.FoodCarousel-Closebtn.btn-slide:hover,
+.FoodCarousel-Closebtn.btn-slide:hover {
     color: rgba(255, 255, 255, 1.00);
     text-decoration: none;
     background-color: rgba(41, 46, 49, 1.00);
@@ -2774,8 +2774,8 @@
     border-radius: 0 0 0 0px;
     text-align: left
 }
-.tp-caption.RotatingWords-Button,
-.RotatingWords-Button {
+.tp-caption.RotatingWords-btn.btn-slide,
+.RotatingWords-btn.btn-slide {
     color: rgba(255, 255, 255, 1.00);
     font-size: 20px;
     line-height: 20px;
@@ -2792,8 +2792,8 @@
     text-align: left;
     letter-spacing: 3px
 }
-.tp-caption.RotatingWords-Button:hover,
-.RotatingWords-Button:hover {
+.tp-caption.RotatingWords-btn.btn-slide:hover,
+.RotatingWords-btn.btn-slide:hover {
     color: rgba(255, 255, 255, 1.00);
     text-decoration: none;
     background-color: transparent;
@@ -2936,8 +2936,8 @@
     border-radius: 0 0 0 0px;
     text-align: left
 }
-.tp-caption.ContentZoom-Button,
-.ContentZoom-Button {
+.tp-caption.ContentZoom-btn.btn-slide,
+.ContentZoom-btn.btn-slide {
     color: rgba(41, 46, 49, 1.00);
     font-size: 13px;
     line-height: 13px;
@@ -2954,8 +2954,8 @@
     text-align: left;
     letter-spacing: 1px
 }
-.tp-caption.ContentZoom-Button:hover,
-.ContentZoom-Button:hover {
+.tp-caption.ContentZoom-btn.btn-slide:hover,
+.ContentZoom-btn.btn-slide:hover {
     color: rgba(255, 255, 255, 1.00);
     text-decoration: none;
     background-color: rgba(41, 46, 49, 1.00);
@@ -2964,8 +2964,8 @@
     border-width: 1px;
     border-radius: 0px 0px 0px 0px
 }
-.tp-caption.ContentZoom-ButtonClose,
-.ContentZoom-ButtonClose {
+.tp-caption.ContentZoom-btn.btn-slideClose,
+.ContentZoom-btn.btn-slideClose {
     color: rgba(41, 46, 49, 1.00);
     font-size: 13px;
     line-height: 13px;
@@ -2982,8 +2982,8 @@
     text-align: left;
     letter-spacing: 1px
 }
-.tp-caption.ContentZoom-ButtonClose:hover,
-.ContentZoom-ButtonClose:hover {
+.tp-caption.ContentZoom-btn.btn-slideClose:hover,
+.ContentZoom-btn.btn-slideClose:hover {
     color: rgba(255, 255, 255, 1.00);
     text-decoration: none;
     background-color: rgba(41, 46, 49, 1.00);
@@ -3026,8 +3026,8 @@
     border-radius: 0 0 0 0px;
     text-align: left
 }
-.tp-caption.Newspaper-Button,
-.Newspaper-Button {
+.tp-caption.Newspaper-btn.btn-slide,
+.Newspaper-btn.btn-slide {
     color: rgba(255, 255, 255, 1.00);
     font-size: 13px;
     line-height: 17px;
@@ -3044,8 +3044,8 @@
     letter-spacing: 2px;
     text-align: left
 }
-.tp-caption.Newspaper-Button:hover,
-.Newspaper-Button:hover {
+.tp-caption.Newspaper-btn.btn-slide:hover,
+.Newspaper-btn.btn-slide:hover {
     color: rgba(0, 0, 0, 1.00);
     text-decoration: none;
     background-color: rgba(255, 255, 255, 1.00);
@@ -3370,8 +3370,8 @@
         border-radius: 0px 0px 0px 0px;
         letter-spacing: 2px
     }
-    .tp-caption.Creative-Button,
-    .Creative-Button {
+    .tp-caption.Creative-btn.btn-slide,
+    .Creative-btn.btn-slide {
         color: rgba(205, 176, 131, 1.00);
         font-size: 13px;
         line-height: 13px;
@@ -3388,8 +3388,8 @@
         border-radius: 0px 0px 0px 0px;
         letter-spacing: 2px
     }
-    .tp-caption.Creative-Button:hover,
-    .Creative-Button:hover {
+    .tp-caption.Creative-btn.btn-slide:hover,
+    .Creative-btn.btn-slide:hover {
         color: rgba(205, 176, 131, 1.00);
         text-decoration: none;
         background-color: rgba(0, 0, 0, 0);
@@ -4255,8 +4255,8 @@ tp-caption.Team-Thumb,
     text-align: left;
     letter-spacing: 5px
 }
-.tp-caption.SleekLanding-ButtonBG,
-.SleekLanding-ButtonBG {
+.tp-caption.SleekLanding-btn.btn-slideBG,
+.SleekLanding-btn.btn-slideBG {
     color: rgba(0, 0, 0, 1.00);
         
     font-weight: 700;
@@ -4397,8 +4397,8 @@ tp-caption.Team-Thumb,
     border-radius: 0 0 0 0px;
     text-align: left
 }
-.tp-caption.PostSlider-Button,
-.PostSlider-Button {
+.tp-caption.PostSlider-btn.btn-slide,
+.PostSlider-btn.btn-slide {
     color: rgba(0, 0, 0, 1.00);
     font-size: 15px;
     line-height: 40px;
@@ -4414,8 +4414,8 @@ tp-caption.Team-Thumb,
     border-radius: 0px 0px 0px 0px;
     text-align: left
 }
-.tp-caption.PostSlider-Button:hover,
-.PostSlider-Button:hover {
+.tp-caption.PostSlider-btn.btn-slide:hover,
+.PostSlider-btn.btn-slide:hover {
     color: rgba(0, 0, 0, 1.00);
     text-decoration: none;
     background-color: rgba(238, 238, 238, 1.00);
@@ -4466,8 +4466,8 @@ tp-caption.Team-Thumb,
     border-radius: 0 0 0 0px;
     text-align: left
 }
-.tp-caption.LandingPage-Button,
-.LandingPage-Button {
+.tp-caption.LandingPage-btn.btn-slide,
+.LandingPage-btn.btn-slide {
     color: rgba(0, 0, 0, 1.00);
     font-size: 15px;
     line-height: 54px;
@@ -4484,8 +4484,8 @@ tp-caption.Team-Thumb,
     text-align: left;
     letter-spacing: 3px
 }
-.tp-caption.LandingPage-Button:hover,
-.LandingPage-Button:hover {
+.tp-caption.LandingPage-btn.btn-slide:hover,
+.LandingPage-btn.btn-slide:hover {
     color: rgba(0, 0, 0, 1.00);
     text-decoration: none;
     background-color: rgba(255, 255, 255, 1.00);
@@ -4744,8 +4744,8 @@ tp-caption.Team-Thumb,
     border-radius: 0 0 0 0px;
     cursor: pointer
 }
-.tp-caption.Agency-NavButton,
-.Agency-NavButton {
+.tp-caption.Agency-Navbtn.btn-slide,
+.Agency-Navbtn.btn-slide {
     color: rgba(51, 51, 51, 1.00);
     font-size: 17px;
     line-height: 50px;
@@ -4762,8 +4762,8 @@ tp-caption.Team-Thumb,
     border-radius: 0px 0px 0px 0px;
     text-align: center
 }
-.tp-caption.Agency-NavButton:hover,
-.Agency-NavButton:hover {
+.tp-caption.Agency-Navbtn.btn-slide:hover,
+.Agency-Navbtn.btn-slide:hover {
     color: rgba(255, 255, 255, 1.00);
     text-decoration: none;
     background-color: rgba(51, 51, 51, 1.00);
@@ -5010,8 +5010,8 @@ tp-caption.Team-Thumb,
     color: #0084B4 !important;
     text-decoration: underline !important
 }
-.tp-caption.TechJournal-Button,
-.TechJournal-Button {
+.tp-caption.TechJournal-btn.btn-slide,
+.TechJournal-btn.btn-slide {
     color: rgba(255, 255, 255, 1.00);
     font-size: 13px;
     line-height: 40px;
@@ -5028,8 +5028,8 @@ tp-caption.Team-Thumb,
     border-radius: 0px 0px 0px 0px;
     letter-spacing: 3px
 }
-.tp-caption.TechJournal-Button:hover,
-.TechJournal-Button:hover {
+.tp-caption.TechJournal-btn.btn-slide:hover,
+.TechJournal-btn.btn-slide:hover {
     color: rgba(0, 0, 0, 1.00);
     text-decoration: none;
     background-color: rgba(255, 255, 255, 1.00);
@@ -5148,8 +5148,8 @@ tp-caption.Team-Thumb,
         border-radius: 0 0 0 0px;
         cursor: pointer
     }
-    .tp-caption.FullSiteBlock-DownButton,
-    .FullSiteBlock-DownButton {
+    .tp-caption.FullSiteBlock-Downbtn.btn-slide,
+    .FullSiteBlock-Downbtn.btn-slide {
         color: rgba(51, 51, 51, 1.00);
         font-size: 25px;
         line-height: 32px;
@@ -5166,8 +5166,8 @@ tp-caption.Team-Thumb,
         border-radius: 30px 30px 30px 30px;
         text-align: center
     }
-    .tp-caption.FullSiteBlock-DownButton:hover,
-    .FullSiteBlock-DownButton:hover {
+    .tp-caption.FullSiteBlock-Downbtn.btn-slide:hover,
+    .FullSiteBlock-Downbtn.btn-slide:hover {
         color: rgba(0, 150, 255, 1.00);
         text-decoration: none;
         background-color: transparent;
@@ -5242,8 +5242,8 @@ tp-caption.Team-Thumb,
         border-radius: 0 0 0 0px;
         cursor: pointer
     }
-    .tp-caption.FullSiteBlock-DownButton,
-    .FullSiteBlock-DownButton {
+    .tp-caption.FullSiteBlock-Downbtn.btn-slide,
+    .FullSiteBlock-Downbtn.btn-slide {
         color: rgba(51, 51, 51, 1.00);
         font-size: 25px;
         line-height: 32px;
@@ -5260,8 +5260,8 @@ tp-caption.Team-Thumb,
         border-radius: 30px 30px 30px 30px;
         text-align: center
     }
-    .tp-caption.FullSiteBlock-DownButton:hover,
-    .FullSiteBlock-DownButton:hover {
+    .tp-caption.FullSiteBlock-Downbtn.btn-slide:hover,
+    .FullSiteBlock-Downbtn.btn-slide:hover {
         color: rgba(0, 150, 255, 1.00);
         text-decoration: none;
         background-color: transparent;
@@ -5307,8 +5307,8 @@ tp-caption.Team-Thumb,
         border-radius: 0 0 0 0px;
         text-align: center
     }
-    .tp-caption.FullSiteBlock-DownButton,
-    .FullSiteBlock-DownButton {
+    .tp-caption.FullSiteBlock-Downbtn.btn-slide,
+    .FullSiteBlock-Downbtn.btn-slide {
         color: rgba(51, 51, 51, 1.00);
         font-size: 25px;
         line-height: 32px;
@@ -5325,8 +5325,8 @@ tp-caption.Team-Thumb,
         border-radius: 30px 30px 30px 30px;
         text-align: center
     }
-    .tp-caption.FullSiteBlock-DownButton:hover,
-    .FullSiteBlock-DownButton:hover {
+    .tp-caption.FullSiteBlock-Downbtn.btn-slide:hover,
+    .FullSiteBlock-Downbtn.btn-slide:hover {
         color: rgba(0, 150, 255, 1.00);
         text-decoration: none;
         background-color: transparent;
@@ -5401,8 +5401,8 @@ tp-caption.Team-Thumb,
         border-radius: 0 0 0 0px;
         cursor: pointer
     }
-    .tp-caption.FullSiteBlock-DownButton,
-    .FullSiteBlock-DownButton {
+    .tp-caption.FullSiteBlock-Downbtn.btn-slide,
+    .FullSiteBlock-Downbtn.btn-slide {
         color: rgba(51, 51, 51, 1.00);
         font-size: 25px;
         line-height: 32px;
@@ -5419,8 +5419,8 @@ tp-caption.Team-Thumb,
         border-radius: 30px 30px 30px 30px;
         text-align: center
     }
-    .tp-caption.FullSiteBlock-DownButton:hover,
-    .FullSiteBlock-DownButton:hover {
+    .tp-caption.FullSiteBlock-Downbtn.btn-slide:hover,
+    .FullSiteBlock-Downbtn.btn-slide:hover {
         color: rgba(0, 150, 255, 1.00);
         text-decoration: none;
         background-color: transparent;
@@ -5603,7 +5603,7 @@ tp-caption.Team-Thumb,
         border-radius: 0 0 0 0px;
         cursor: pointer
     }
-    .fb-share-button.fb_iframe_widget iframe {
+    .fb-share-btn.btn-slide.fb_iframe_widget iframe {
         width: 115px!important;
     }
     #tp-socialwrapper {
@@ -5762,13 +5762,13 @@ tp-caption.Team-Thumb,
         border-radius: 0 0 0 0px;
         cursor: pointer
     }
-    .fb-share-button.fb_iframe_widget iframe {
+    .fb-share-btn.btn-slide.fb_iframe_widget iframe {
         width: 115px!important;
     }
-    iframe.twitter-share-button {
+    iframe.twitter-share-btn.btn-slide {
         display: none;
     }
-    .fb-share-button.fb_iframe_widget iframe {
+    .fb-share-btn.btn-slide.fb_iframe_widget iframe {
         display: none;
     }
 
@@ -5797,5 +5797,106 @@ tp-caption.Team-Thumb,
 /*Texto Slides*/
 .title-slide    { color:#ffffff; font-family: 'open_sansextrabold'; font-weight:bold!important; }
 .subtitle-slide { color:#ffffff; }
-.btn-slide      { background-color: #007CFF; display: inline-block; padding: 6px 22px; border-radius:50px }
-.btn-slide a    { color:#ffffff; text-decoration:none; }
+
+
+
+.wrap {
+  height: 100%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.btn-slide {
+  min-width: 300px;
+  min-height: 60px;
+  display: inline-flex;
+  font-family: 'Nunito', sans-serif;
+  font-size: 22px;
+  align-items: center;
+  justify-content: center;
+  text-transform: uppercase;
+  text-align: center;
+  letter-spacing: 1.3px;
+  font-weight: 700;
+  color: white !important; /* Garante que o texto seja branco */
+  background: linear-gradient(90deg, #007CFF 0%, #005BB5 100%);
+  border: none;
+  border-radius: 1000px;
+  box-shadow: 12px 12px 24px rgba(0, 124, 255, 0.5);
+  transition: all 0.3s ease-in-out;
+  cursor: pointer;
+  outline: none;
+  position: relative;
+  padding: 10px;
+}
+
+.btn-slide a {
+  color: inherit !important; /* Faz o link herdar a cor do botão */
+  text-decoration: none;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 100%;
+}
+
+.btn-slide::before {
+  content: '';
+  border-radius: 1000px;
+  min-width: calc(300px + 12px);
+  min-height: calc(60px + 12px);
+  border: 6px solid #007CFF;
+  box-shadow: 0 0 60px rgba(0, 124, 255, 0.5);
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  opacity: 0;
+  transition: all .3s ease-in-out;
+}
+
+.btn-slide:hover, 
+.btn-slide:focus {
+  background: linear-gradient(90deg, #005BB5 0%, #003F87 100%);
+  box-shadow: 12px 12px 24px rgba(0, 91, 181, 0.7);
+  color: white !important;
+  transform: translateY(-6px);
+}
+
+.btn-slide:hover::before, 
+.btn-slide:focus::before {
+  opacity: 1;
+}
+
+.btn-slide::after {
+  content: '';
+  width: 30px; 
+  height: 30px;
+  border-radius: 100%;
+  border: 6px solid #007CFF;
+  position: absolute;
+  z-index: -1;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  animation: ring 1.5s infinite;
+}
+
+.btn-slide:hover::after, 
+.btn-slide:focus::after {
+  animation: none;
+  display: none;
+}
+
+@keyframes ring {
+  0% {
+    width: 30px;
+    height: 30px;
+    opacity: 1;
+  }
+  100% {
+    width: 300px;
+    height: 300px;
+    opacity: 0;
+  }
+}
