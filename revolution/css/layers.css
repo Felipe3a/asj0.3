@@ -5888,6 +5888,13 @@ tp-caption.Team-Thumb,
   display: none;
 }
 
+
+.btn-slide::before,
+.btn-slide::after {
+  pointer-events: none;
+}
+
+
 @keyframes ring {
   0% {
     width: 30px;
